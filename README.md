@@ -5,9 +5,9 @@
 
 ## 效果图
 
-![image](https://github.com/as01788/LanguageFramework/edit/master/image/cn.png)
+![image](https://github.com/as01788/LanguageFramework/blob/master/image/cn.png)
 
-![image][https://github.com/as01788/LanguageFramework/edit/master/image/en.png]
+![image](https://github.com/as01788/LanguageFramework/edit/master/image/en.png)
 
 ----
 
