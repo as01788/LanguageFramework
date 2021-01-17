@@ -1,0 +1,18 @@
+{
+    "Info": {
+        "language":"cn",
+        "UICompontents": [
+            {
+                "path": "this",
+                "uiType": "Image",
+                "bundleName":"resources",
+                "resName": "bg"
+            },
+            {
+                "path":"panel_equip",
+                "uiType":"Image",
+                "resName":"equip"
+            }
+        ]
+    }
+}

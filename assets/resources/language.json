@@ -1,0 +1,14 @@
+{
+    "languages": [
+        {
+            "id": "test",
+            "cn": "哈哈哈哈哈哈哈哈",
+            "en": "hahahahahahaha"
+        },
+        {
+            "id": "test2",
+            "cn": "<color=#FF0000>中文</color>",
+            "en": "<color=#0057FF>English</color>"
+        }
+    ]
+}
